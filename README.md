@@ -8,7 +8,6 @@ Disable auto-dimming (TPC/GSR) on LG OLED TVs to prevent automatic brightness re
 - 🖥️ **GUI Application**: Easy-to-use graphical interface
 - ⌨️ **CLI Tool**: Command-line interface for automation
 - 📝 **Logging**: Comprehensive logging for troubleshooting
-- 💾 **Persistent Settings**: Saves TV pairing keys and configuration
 
 ## What is TPC/GSR?
 
